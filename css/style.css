@@ -126,43 +126,14 @@
     font-family: 'Times New Roman', Times, serif;
     padding-bottom: 30px;
 }
-/*
-@media (min-width: 992px){
-    .contact .contact-form{
-        border: 2px solid rgb(0, 0, 0);
-        text-align: center;
-        width: 460px;
-        border-radius: 90px;
-        margin-left: -17%;
-    }
-
-    .contact .contact-form input{
-        border: none;
-        padding: 0px;
-        text-align: center;
-    }
-
-    .contact-form .contact-btn{
-        font-size: 22px;
-        background-color: rgb(0, 0, 0);
-        color: whitesmoke;
-        padding: 10px 50px;
-        border-radius: 40px;
-        border: none;
-        margin-bottom: 8px;
-        transition: all .5s;
-    }
-}
-*/
 .contact .col-md-6{
     border: 2px solid rgb(0, 0, 0);
     border-radius: 90px;
     padding: 5px 10px;
 }
 .contact .col-md-6 input{
-    width: 65%;
+    width: 50%;
     background: none;
-    padding: 5px 5px;
     border: none;
     font-size: 20px;
     text-align: center;
